@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on full stack web development projects<br><br>Looking for new opportunities to explore<br><br>I'm currently learning full stack web development along with data structure & algorithms<br><br>I'm also interested in learning new technologies specially in the field of machine learning & artificial intelligence
-
+I’m currently working in Tech Mahindra as a Software Engineer in the Java domain. <br>Most of my work revolves around backend development using technologies like Java, Spring Core, Spring Boot, and RESTful services. <br> I’m always looking to explore new opportunities that help me grow technically. <br> Alongside my work, I’m also learning full-stack web development and strengthening my data structures and algorithms. <br> I have a keen interest in exploring new technologies, especially in the areas of machine learning and artificial intelligence.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jalaj-kumar-singh-b415b515a/) 
